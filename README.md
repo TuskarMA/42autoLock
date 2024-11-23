@@ -1,3 +1,9 @@
+
+This script is gonna put your pc in lockscreen everytime you are leaving it, you can configure timings and colors of the panel just editing .py file inside your /home/userScript folder after install. 
+
+This script is tested in Bangkok campus, i'm not sure about working abilities in other campus, our software and lockscreens can be a little bit different. 
+If you're facing compatability issues, you can freely wright in issues and we will make my code work on your campus pc's too ^-^
+
 Install this script with a simple command line
 
 ```sh
